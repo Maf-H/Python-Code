@@ -84,7 +84,7 @@ class BST(Tree_Node):
         Args:
             value: The value to delete.
         Returns:
-            The updated root node of the BST.
+            True if found, otherwise None.
         """
         parent = self.root
         current = self.root
