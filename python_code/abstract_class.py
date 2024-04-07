@@ -1,6 +1,5 @@
-#  Copyright (c) 01-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 01-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 from abc import ABC, abstractmethod
 

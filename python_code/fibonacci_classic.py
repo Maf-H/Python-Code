@@ -6,9 +6,8 @@ Created on Sun Feb 10 2024:01:58
 """
 
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 
 # Fibonacci Series using recursive function

@@ -1,6 +1,5 @@
-#  Copyright (c) 02-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 02-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # Using walrus operator you can assign value to variables as part of larger expression.
 

@@ -6,9 +6,8 @@ Created on Wed Dec 20 12:23:34 2023
 @author: mesfinhaftu
 """
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # Tuple:- Their value is immutable and length of the tuple can't be changed
 hour = int(input("Enter Hour: "))

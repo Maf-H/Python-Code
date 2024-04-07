@@ -1,6 +1,5 @@
-#  Copyright (c) 02-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 02-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # Multithreading is recommended for io bound tasks GIL (global interpreter Lock) allows 1 thread execution at a time,
 # when one of the threads become idle the next will continue

@@ -1,7 +1,6 @@
 try:
-    #  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+    #  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 num = int(input("Enter Natural Number:"))
     print(" Reciprocal of ", num, "= ", 1/num)

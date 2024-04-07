@@ -12,9 +12,8 @@ user_input = input("Enter a number: ")
 seven_segment_printer(user_input)
 """
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 digits = ['1111110',  # 0
           '0110000',  # 1

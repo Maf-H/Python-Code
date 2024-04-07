@@ -6,9 +6,8 @@ Created on Tue Dec 19 14:51:57 2023
 @author: mesfin_haftu
 """
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # Factors of a number
 # There are only four perfect number up-to 10,000 === 6, 28, 496, 8_128

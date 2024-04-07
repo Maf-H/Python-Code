@@ -1,8 +1,8 @@
-#  Copyright (c) 2024-04/04/2024, 02:02.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 import os
+import sys
 
 """
 os.uname() 
@@ -26,7 +26,8 @@ you can give all the above one by one to the method
 os.system("...")
 """
 
-print(os.system("rmdir Python Code"))
-print(os.system("listdir"))
-print(os.getcwd())
+# print(os.system("rmdir Python Code"))
+# print(os.system("listdir"))
+# print(os.getcwd())
 
+print(sys.platform)

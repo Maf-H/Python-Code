@@ -1,6 +1,5 @@
-#  Copyright (c) 05/04/2024, 13:32.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 05-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 import sys
 import unittest
 
@@ -21,3 +20,10 @@ class TestClass12(unittest.TestCase):
     def test_case03(self):
         # Linux specific testing code
         pass
+
+    @unittest.skipIf(sys.platform is not "windows", "The system is not Windows")
+    def test_case04(self):
+        # windows specific testing code
+        pass
+#
+

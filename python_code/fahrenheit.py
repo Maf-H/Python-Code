@@ -6,9 +6,8 @@ Created on Mon Dec 18 19:07:00 2023
 @author: mesfin haftu
 """
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # The function to change Celsius to Fahrenheit
 

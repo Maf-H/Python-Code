@@ -6,9 +6,8 @@ Created on Fri Dec 22 03:26:25 2023
 @author: mesfinhaftu
 """
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # Two dimentional sequence
 list_1 = [[1,2,3],[4,5,6],[7,8,9]]

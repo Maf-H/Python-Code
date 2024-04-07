@@ -1,3 +1,6 @@
+#  Copyright (c) 06/04/2024, 16:48.
+#  @author Mesfin Haftu
+
 from multiprocessing import Process, cpu_count
 import time
 

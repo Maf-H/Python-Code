@@ -6,9 +6,8 @@ Created on Sun Dec 10 18:17:10 2023
 @author: mesfinhaftu
 """
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 count = 0
 total = 0

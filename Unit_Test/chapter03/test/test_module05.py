@@ -1,6 +1,5 @@
-#  Copyright (c) 03/04/2024, 22:36.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 03-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # test fixtures are the set of steps performed before and after the tests.
 

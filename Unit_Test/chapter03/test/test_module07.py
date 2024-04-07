@@ -1,6 +1,5 @@
-#  Copyright (c) 04/04/2024, 01:36.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 04-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 import unittest
 

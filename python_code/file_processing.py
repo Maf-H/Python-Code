@@ -1,6 +1,5 @@
-#  Copyright (c) 2024-04/04/2024, 02:02.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 from os import strerror
 

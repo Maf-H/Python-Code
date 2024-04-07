@@ -1,6 +1,5 @@
-#  Copyright (c) 02-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 02-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # duck typing is a concept where the class of an object is less important than the methods/attr class type is not
 # checked if minimum methods/attributes are present

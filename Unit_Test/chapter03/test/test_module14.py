@@ -1,6 +1,5 @@
-#  Copyright (c) 05/04/2024, 14:03.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 05-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 import unittest
 # The assertRaises() method is used to check if the code block raises the exception mentioned in assertRaises().

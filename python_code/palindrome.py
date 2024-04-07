@@ -8,8 +8,7 @@ def is_palindrome(sample):
 
 sample_input = input("Enter a word, phrase or sentence: ")
 is_palindrome(sample_input)
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 #  Ten animals I slam in a net.

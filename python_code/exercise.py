@@ -1,6 +1,5 @@
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 import pprint
 import random
@@ -23,12 +22,9 @@ print(cards)
 random.shuffle(cards)
 print(cards)
 
-
-def summer(*args):
-    result = 0
-    for i in args:
-        result += i
-    return result
+name = 'Mesfin'
+print(name, '\n', name.encode('utf-8'))
+for i in name.encode('utf-8'):
+    print(i)
 
 
-print(summer(1, 2, 3, 4, 5))

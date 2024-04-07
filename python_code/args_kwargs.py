@@ -1,6 +1,5 @@
-#  Copyright (c) 27-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 27-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 def delivery_address(*args, **kwargs):
     for name in args:

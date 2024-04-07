@@ -1,6 +1,5 @@
-#  Copyright (c) 27-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 27-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 class Tree_Node:
     """Representation of tree node"""
@@ -83,7 +82,6 @@ class BST(Tree_Node):
         If Value found in the binary tree, it deletes a value from it.
         else do nothing
         Args:
-            root: The root node of the BST.
             value: The value to delete.
         Returns:
             The updated root node of the BST.

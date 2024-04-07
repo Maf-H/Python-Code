@@ -5,9 +5,8 @@ The program runs flawlessly
 if you enter a valid numerical value greater than or equal to zero;
 otherwise, it stops and emits 'assert x >= 0.0'.
 """
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 import math
 

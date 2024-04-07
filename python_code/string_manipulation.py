@@ -4,9 +4,8 @@ alpha = "መስፍን ሃፍቱ"
 print(ord('a'))  # ascii / utf-8 character value
 print(chr(4640))  # code value to ascii / utf-8
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # Slices
 

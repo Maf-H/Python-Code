@@ -5,9 +5,8 @@ def is_year_leap(year):
     else:
         return False
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 test_data = [1900, 2000, 2016, 1987]
 test_results = [False, True, True, False]

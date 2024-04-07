@@ -1,9 +1,8 @@
 str_1 = input("Enter the first string: ")
 str_2 = input("Enter the second string: ")
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # This is what we're going to do with both strings:
 str_1 = "".join(sorted(str_1.replace(' ', '').upper()))

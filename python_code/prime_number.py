@@ -6,9 +6,8 @@ Created on Mon Dec 18 19:23:28 2023
 @author: mesfin haftu
 """
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # Prime Number up-to n
 

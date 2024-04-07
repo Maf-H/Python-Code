@@ -1,9 +1,8 @@
-#  Copyright (c) 04/04/2024, 19:44.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 04-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 import unittest
 
-from Pyhton_Unit_Test_Automation.chapter03.my_package.my_math_lib import *
+from Unit_Test.chapter03.my_package.my_math_lib import *
 
 math_obj = 0
 

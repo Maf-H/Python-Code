@@ -3,9 +3,8 @@
 Spyder Editor
 
 @ author Mesfin Haftu"""
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # Continue and Break
 print("Year %28s"%"Quib of The Number")

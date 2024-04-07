@@ -17,9 +17,8 @@ def linear_search(input_list, target):
     return None
 
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 input_list = [x for x in range(50)]
 try:

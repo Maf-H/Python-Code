@@ -1,6 +1,5 @@
-#  Copyright (c) 05/04/2024, 13:23.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 05-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 import unittest
 """To fail a test use fail() method."""
 

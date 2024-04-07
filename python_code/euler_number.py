@@ -6,9 +6,8 @@ Created on Fri Dec 15 17:08:13 2023
 @author: mesfin_haftu
 """
 
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # calculating e with power series
 

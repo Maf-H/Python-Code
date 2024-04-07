@@ -5,9 +5,8 @@ Created on Tue Dec 19 15:51:21 2023
 
 @author: mesfin haftu
 """
-#  Copyright (c) 2024-02/04/2024, 21:47.
-#  Mesfin Haftu
-#  All rights are reserved
+#  Copyright (c) 2024-06/04/2024, 16:48.
+#  @author Mesfin Haftu
 
 # Lists:- Their value and length of the list can be mutable or changed
 # list = [expression for item in iterable]
