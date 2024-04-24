@@ -2,7 +2,7 @@
 #  @author Mesfin Haftu
 import unittest
 
-from Unit_Test.chapter03.my_package.my_math_lib import *
+from Unit_Test.Unit_Test.my_package.my_math_lib import *
 
 math_obj = 0
 
@@ -47,5 +47,5 @@ class TestClass10(unittest.TestCase):
         """called once, after all the tests in the class"""
         print("In tearDownClass()...")
 
-# You can run all modules in chapter03 using the following command:
+# You can run all modules in Unit_Test using the following command:
 #  python3 -m unittest discover -v

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <testsuites>
+        <testsuite name="pytest" errors="0" failures="1" skipped="0" tests="17" time="0.044" timestamp="2024-04-12T15:50:45.415882" hostname="Mesfins-MacBook-Air.local">
+            <testcase classname="test.test_module01" name="test_case01" time="0.000" />
+            <testcase classname="test.test_module02.TestClass01" name="test_case01" time="0.000" />
+            <testcase classname="test.test_module02.TestClass01" name="test_case02" time="0.000" />
+            <testcase classname="test.test_module03" name="test_case01" time="0.001" />
+            <testcase classname="test.test_module03" name="test_case02" time="0.000" />
+            <testcase classname="test.test_module03.TestClass02" name="test_case01" time="0.000" />
+            <testcase classname="test.test_module03.TestClass02" name="test_case02" time="0.000" />
+            <testcase classname="test.test_module03.TestClass02" name="test_case03" time="0.000" />
+            <testcase classname="test.test_module03.TestClass02" name="test_case04" time="0.000" />
+            <testcase classname="test.test_module04" name="test_case01" time="0.000" />
+            <testcase classname="test.test_module05" name="test_case01" time="0.000" />
+            <testcase classname="test.test_module06.TestClass03" name="test_case01" time="0.000" />
+            <testcase classname="test.test_module06.TestClass03" name="test_case02" time="0.000" />
+            <testcase classname="test.test_module07" name="test_case01" time="0.000" />
+            <testcase classname="test.test_module08" name="test_case01" time="0.000" />
+            <testcase classname="test.test_module09" name="test_case01" time="0.000" />
+            <testcase classname="test.test_module09" name="test_case02" time="0.000">
+                <failure message="Failed: DID NOT RAISE &lt;class 'Exception'&gt;">def test_case02():
+&gt;       with pytest.raises(Exception):
+E       Failed: DID NOT RAISE &lt;class 'Exception'&gt;
+
+test/test_module09.py:14: Failed</failure></testcase></testsuite></testsuites>

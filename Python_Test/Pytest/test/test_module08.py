@@ -1,6 +1,8 @@
 import pytest
 
 # pytest provides access to the fixture information on the requested object.
+
+
 @pytest.fixture()
 def fixture01(request):
     print("\nIn fixture01()...")
@@ -10,10 +12,11 @@ def fixture01(request):
     print("Module Name: " + str(request.module.__name__))
     print("File Path: " + str(request.fspath))
     
+
 @pytest.mark.usefixtures('fixture01')
 def test_case01(request):
     print("\nI'm the test_case01()...")
-    def fin():
-        print("\nFinalyzed.")
-    request.addfinalizer(fin)
 
+    def fin():
+        print("\nFinalized.")
+    request.addfinalizer(fin)
