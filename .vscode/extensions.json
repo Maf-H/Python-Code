@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "tabnine.tabnine-vscode",
-    "illixion.vscode-vibrancy-continued"
+    "illixion.vscode-vibrancy-continued",
+    "github.copilot"
   ]
 }

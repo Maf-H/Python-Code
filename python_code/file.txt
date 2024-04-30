@@ -10,5 +10,3 @@ Tsiyon - Mother
 Gizachew - Driver
 
 This is the end of the file.
-
-

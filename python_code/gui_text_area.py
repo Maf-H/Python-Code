@@ -1,7 +1,7 @@
 #  Date & Time 14/04/2024, 21:56.
 #  @author Mesfin Haftu
 
-
+from tkinter import * 
 
 window = Tk()
 window.title("Text Area")
