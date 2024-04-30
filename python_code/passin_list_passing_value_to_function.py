@@ -14,7 +14,16 @@ def modify_list(a_list):
 def modify_element(element):
         element *= 2
 
-#  Copyright (c) 2024-06/04/2024, 16:48.
+#  Date & Time 14/04/2024, 21:56.
+#  @author Mesfin Haftu
+
+#  Date & Time 14/04/2024, 21:55.
+#  @author Mesfin Haftu
+
+#  Date & Time 14/04/2024, 21:54.
+#  @author Mesfin Haftu
+
+#  Date & Time (\d+)", 1, "-")14/04/2024, 21:53.
 #  @author Mesfin Haftu
 
 a_list = [1,2,3,4,5]

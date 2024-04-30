@@ -19,7 +19,16 @@ try:
 except ArithmeticError :
     print("Arithmetic Error from Outside")
 except NameError as #  Copyright (c) 2024. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#  Copyright (c) 2024-06/04/2024, 16:48.
+#  Date & Time 14/04/2024, 21:56.
+#  @author Mesfin Haftu
+
+#  Date & Time 14/04/2024, 21:55.
+#  @author Mesfin Haftu
+
+#  Date & Time 14/04/2024, 21:54.
+#  @author Mesfin Haftu
+
+#  Date & Time (\d+)", 1, "-")14/04/2024, 21:53.
 #  @author Mesfin Haftu
 
 #  Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.

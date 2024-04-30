@@ -5,7 +5,16 @@ a- append, appends a file at the end of the file "use \n to append in the new li
 r+ - read/write
 """
 
-#  Copyright (c) 2024-06/04/2024, 16:48.
+#  Date & Time 14/04/2024, 21:56.
+#  @author Mesfin Haftu
+
+#  Date & Time 14/04/2024, 21:55.
+#  @author Mesfin Haftu
+
+#  Date & Time 14/04/2024, 21:54.
+#  @author Mesfin Haftu
+
+#  Date & Time (\d+)", 1, "-")14/04/2024, 21:53.
 #  @author Mesfin Haftu
 
 names_profession = open("file.txt", "r") # r- read, w- write, a- append, r+ - read/write

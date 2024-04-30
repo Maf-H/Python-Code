@@ -1,4 +1,13 @@
-#  Copyright (c) 2024-06/04/2024, 16:48.
+#  Date & Time 14/04/2024, 21:56.
+#  @author Mesfin Haftu
+
+#  Date & Time 14/04/2024, 21:55.
+#  @author Mesfin Haftu
+
+#  Date & Time 14/04/2024, 21:54.
+#  @author Mesfin Haftu
+
+#  Date & Time (\d+)", 1, "-")14/04/2024, 21:53.
 #  @author Mesfin Haftu
 
 import pprint
@@ -13,18 +22,13 @@ for character in message:
 print(count)
 pprint.pprint(count)
 
-name = "mesfin Haftu"
-degree = "Computer Engineering"
-print("My name is {}. I graduated in {}.".format(name, degree))
+# name = "mesfin Haftu"
+# degree = "Computer Engineering"
+# print("My name is {}. I graduated in {}.".format(name, degree))
 
 cards = [x for x in range(2, 10)] + ['J', 'Q', 'K', 'A']
 print(cards)
 random.shuffle(cards)
 print(cards)
-
-name = 'Mesfin'
-print(name, '\n', name.encode('utf-8'))
-for i in name.encode('utf-8'):
-    print(i)
 
 
