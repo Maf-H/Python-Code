@@ -1,1 +1,2 @@
-window.config(bg='#27476E')
+und_image = PhotoImage(file="sky.png")
+# background = canv
