@@ -4,10 +4,10 @@
 from tkinter import *
 import time
 
-WIDTH = 500                 
-HEIGHT = 500
-xVelocity = 2
-yVelocity = 3
+WIDTH = 500  # Width of canvas in pixels               
+HEIGHT = 500 # Height of canvas in pixels
+xVelocity = 2 # Change of distance over 0.001 seconds 
+yVelocity = 3 # Change of distance over 0.001 seconds
 
 window = Tk()
 window.title("Animation")
@@ -21,10 +21,8 @@ background = canvas.create_image(0, 0, image=background_image, anchor=NW)
 angel_image = PhotoImage(file="angel.png")
 angel = canvas.create_image(0, 0, image=angel_image, anchor=NW)
 
-image_width = angel_image.width()
-image_height = angel_image.height()
-
-print(image_width, image_height)
+image_width = angel_image.width() # angel image width
+image_height = angel_image.height() # angel image height
 
 while True:
     coordinates = canvas.coords(angel)
