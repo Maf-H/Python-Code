@@ -1,15 +1,6 @@
 #  Date & Time 14/04/2024, 21:56.
 #  @author Mesfin Haftu
 
-#  Date & Time 14/04/2024, 21:55.
-#  @author Mesfin Haftu
-
-#  Date & Time 14/04/2024, 21:54.
-#  @author Mesfin Haftu
-
-#  Date & Time (\d+)", 1, "-")14/04/2024, 21:53.
-#  @author Mesfin Haftu
-
 class Node:
     """An object to sort a single node of a linked list
     attributes: data
@@ -143,6 +134,7 @@ class Linked_List:
                 node.append("[%d: ]" % current.data)
             current = current.next_node
         return "-> ".join(node)
+
 
 if __name__ == "__main__":
     try:

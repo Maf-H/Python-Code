@@ -6,17 +6,6 @@ Created on Thu Dec 21 16:19:47 2023
 @author: mesfin haftu
 """
 
-#  Date & Time 14/04/2024, 21:56.
-#  @author Mesfin Haftu
-
-#  Date & Time 14/04/2024, 21:55.
-#  @author Mesfin Haftu
-
-#  Date & Time 14/04/2024, 21:54.
-#  @author Mesfin Haftu
-
-#  Date & Time (\d+)", 1, "-")14/04/2024, 21:53.
-#  @author Mesfin Haftu
 
 # Dictionary can be created or updated from existing using dictionary comprehension.
 # dictionary = {key: expression  for (key, value) in iterable}
@@ -38,7 +27,7 @@ del books[5]  # deleting dictionary value with key
 # 6months.clear()
 # print(books)
 books.update(months)
-# print(months.get(9))
+print(months.get(19))
 
 """
  clear()

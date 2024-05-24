@@ -1,28 +1,29 @@
-from tkinter import *
-from tkinter.ttk import *
-import time
-def start():
-    tasks = 10
-    x = 0
-    while x < tasks:
-        progress_bar['value'] = int(x/tasks*100) # set the progress bar value to the current percentage
-        time.sleep(1) # wait for one second
-        x += 1
-        percent.set(str(int((x/tasks)*100)) + "%")
-        text.set(str(x) + "/" + str(tasks) + " tasks downloaded")
-        window.update_idletasks()  # Update the GUI
+# Definition for singly-linked list.
+class ListNode(object):
+    def __init__(self, val = 0, next = None):
+        self.val = val
+        self.next = next
 
+class Solution(object):
+    def __str__(self):
+        return f"[{self.middleNode()}]"
+    def middleNode(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        mid = 0
+        middle = []
+        list_node = ListNode()
+        head = list_node
+        temp_node = list_node
+        while temp_node is not None:
+            mid += 1
+            temp_node = temp_node.next
 
-window = Tk()
-window.title("Progress Bar")
-
-percent = StringVar()
-text = StringVar()
-progress_bar = Progressbar(window, orient=HORIZONTAL, length=300)
-progress_bar.pack(pady=10)
-
-Label(window, textvariable=percent).pack()
-Label(window, textvariable=text).pack()
-Button(window, text="download", command=start).pack()
-
-window.mainloop()
+        if 1 <= mid <= 50:
+            for i in range(mid):
+                if 1 <= list_node.val <= 100 and list_node is not None:
+                    list_node = list_node.next
+            print(list_node)
+            return list_node
