@@ -10,7 +10,7 @@
 #  Date & Time (\d+)", 1, "-")14/04/2024, 21:53.
 #  @author Mesfin Haftu
 
-username = ['Mesfin', 'Haftu', 'Teshome']
+username = ['Mesfin', 'John', 'Doe']
 passwords = ('P@ssword', 'abc123', 'guest')
 
 # users = zip(username, passwords)
