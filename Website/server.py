@@ -8,7 +8,7 @@ import mysql.connector
 db_config = {
     "host":     "localhost",
     "user":     "root",
-    "password": "@Fmhtrtsaqyl24",
+    "password": "@Pa55w0rdl24",
     "database": "Citizen_Data"
 }
 
