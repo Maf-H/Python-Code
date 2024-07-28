@@ -1,1 +1,21 @@
-mesfinhaftu@gmail.com
+person = Person(12345, "Mesfin", "Haftu", "m", 30)
+# p1 = Person(12321, "Bob", "Blue", "m", 35)
+# p2 = Person(34543, "Anna", "Blue", "f", 40)
+# p3 = Person(45654, "Angela", "Cold", "f", 22)
+
+# session.add(person)
+# session.add(p1)
+# session.add(p2)
+# session.add(p3)
+# session.commit()
+
+# t1 = Things(1, "MacBook", person.ssn)
+# t2 = Things(2, "Phone", p2.ssn)
+# t3 = Things(3, "Home", p3.ssn)
+# t4 = Things(4, "Pickup", person.ssn)
+
+# session.add(t1)
+# session.add(t2)
+# session.add(t3)
+# session.add(t4)
+# session.commit()
