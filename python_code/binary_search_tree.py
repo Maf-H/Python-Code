@@ -13,7 +13,7 @@ class Tree_Node:
 class BST(Tree_Node):
     """Representation of binary search tree"""
     def __init__(self, value=None):
-        Tree_Node.__init__(self, value)
+        super.__init__(self, value)
         self.root = None
 
 
@@ -74,11 +74,20 @@ class BST(Tree_Node):
                     break
                 current = current.right
         print(f'No {value} is in the tree.')
-        return None
+        return False
 
     def delete(self, value):
         """
-        If Value found in the binary tree, it deletes a value from it.
+        If Value found in the binary tree, delete a value from it.
+          procedure:
+            1. if node is leaf node, disconnect it from its parent
+            2. if node has one child, connect node's parent to node's child; then set node.next to None
+            3. if node have two children:
+                    11. find it's in order successor (it's rights most left node)
+                    12. if successor has right child set it to node's parent left node
+                    13. set successor's parent.left to None
+                    14. set successor.next to the right side of the node you want to delete
+                    15. disconnect node to be deleted from it's parent and connect the successor
         else do nothing
         Args:
             value: The value to delete.
@@ -87,7 +96,7 @@ class BST(Tree_Node):
         """
         parent = self.root
         current = self.root
-        is_left_child = False
+        is_left_child = False # 
         if current is None:
             print("Empty Tree")
             return current
