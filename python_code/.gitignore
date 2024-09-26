@@ -1,0 +1,7 @@
+*.DS_STORE
+__pycache__/
+mysqlclient/
+node_module/
+*.code-workspace
+*.txt.hist
+tempCodeRunner.py
