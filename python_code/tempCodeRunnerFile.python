@@ -1,9 +1,0 @@
-class Check:
-    public = True
-    __private = False
-class Main(Check):
-   def in_main(self):
-       print(unicode("ሀ"))
-
-main = Main()
-print(main.in_main())

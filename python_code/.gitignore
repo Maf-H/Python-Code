@@ -1,7 +1,9 @@
-*.DS_STORE
+*.DS_Store
+*.idea/
 __pycache__/
 mysqlclient/
 node_module/
 *.code-workspace
 *.txt.hist
 tempCodeRunner.py
+tempCodeRunnerFile.python

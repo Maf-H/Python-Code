@@ -1,3 +1,0 @@
-This is Demonstration of,
-file dialog using text area
-by writing in multiple line.
