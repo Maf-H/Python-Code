@@ -22,4 +22,4 @@ tempCodeRunnerFile.python
 ../Python_Test/
 ../Test_Skill_Check/
 ../Website/
-*.py*
+.py*
