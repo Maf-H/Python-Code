@@ -1,7 +1,5 @@
-*.DS_Store
-*.idea/
-.DS_Store
-.idea/
+*.txt
+*.png
 __pycache__/
 mysqlclient/
 node_module/
@@ -9,17 +7,17 @@ node_module/
 *.txt.hist
 tempCodeRunner.py
 tempCodeRunnerFile.python
-../*
 .project
-.pydevproject
-../.DS_Store
-../.idea/
-../Django/
-../Dynamic_Programming/
-../Flow Chart/
-../Freecodecamp Python/
-../Personal_Financial_Manager/
-../Python_Test/
-../Test_Skill_Check/
-../Website/
 .py*
+*.DS_Store
+*.idea/
+*.vscode/
+Dynamic_Programming/
+Flow Chart/
+Freecodecamp/
+Freecodecamp Python/tempCodeRunnerFile.py
+Personal_Financial_Manager/
+Python_Test/
+Test_Skill_Check/
+Website/
+
