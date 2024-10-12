@@ -2,6 +2,7 @@
 *.png
 __pycache__/
 mysqlclient/
+.ipynb_checkpoints/
 node_module/
 *.code-workspace
 *.txt.hist
